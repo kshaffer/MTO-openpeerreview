@@ -1,4 +1,6 @@
-# Lightning Talk for the 2013 meeting of the SMT Music Informatics Interest Group
+# Musing Theory Online: A Proposal for Open Peer-Review
+
+Presentation at the 2013 meeting of the Society for Music Theory
 
 
 
